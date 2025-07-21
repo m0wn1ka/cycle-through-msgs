@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
   "name": "chat gpt extension",
-  "description": "insert 2 arrows to navigate between user messages",
+  "description": "insert a  arrows to navigate between user messages",
   "version": "1.0",
+  "author" : "Radha mounika pulakhandam",
   "content_scripts": [
     {
       "js": [
